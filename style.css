@@ -79,7 +79,7 @@ a{
 .blog-text .blog-title{
     font-size: 1.3rem;
     font-weight: 500;
-    color: rgb(99, 0, 0);
+    color: rgb(2, 32, 128);
 }
 
 .blog-text p{
@@ -95,7 +95,7 @@ a{
 }
 
 .blog-text a:hover {
-    color:blue;
+    color:rgb(255, 0, 0);
     transition: all ease 0.3s;
 }
 
