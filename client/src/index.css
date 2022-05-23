@@ -1,0 +1,30 @@
+.d-flex {
+  display: flex;
+}
+
+.chat-box {
+  border: 1px solid;
+  width: 500px;
+  height: 500px;
+}
+
+.message {
+  padding: 5px;
+}
+
+.main {
+  padding: 10px;
+}
+
+.input {
+  background: rgba(0, 0, 0, 0.15);
+  padding: 0.25rem;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  display: flex;
+  height: 3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(10px);
+}
