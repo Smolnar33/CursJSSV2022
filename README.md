@@ -1,1 +1,1 @@
-Rezolvare Tema curs 4 (I'm trying xD)
+Rezolvare Tema curs 4 (din pacate nu ii rezolvare completa :( )
