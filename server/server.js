@@ -26,6 +26,11 @@ io.on("connection", (socket) => {
     console.log("NEW MESSAGE:" + message);
     io.emit("received-message", message);
   });
+
+  socket.on("new-username", (username) => {
+    console.log("NEW USERNAME:" + username);
+    io.emit("received-username", username);
+  })
 });
 
 
